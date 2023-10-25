@@ -9,6 +9,9 @@ public class stringTests {
 
         String s4 = new String("Hello");
 
+        System.out.println("s2: "+s2);
+        System.out.println("s3: "+s3);
+
     }
 
 }
